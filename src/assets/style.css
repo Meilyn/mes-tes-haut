@@ -1,0 +1,106 @@
+#app{
+	height: 100%;
+}
+body{
+	margin: 0 auto;
+	width: 100%;
+	text-align: center;
+}
+.button-addon2{
+	background-color: #000!important;
+	color: #fff;
+}
+.navbar{
+	background-color: #1c2d3e!important;
+}
+table {
+		border: 0,5px solid #fff;
+		width: 100%;
+		line-height: 15px;
+		text-align: left;
+		margin: auto auto;
+		font-family: 'Roboto', sans-serif;	
+		}
+		th {
+			text-transform: uppercase;
+			text-align: left;
+			background-color: none;
+			color: white;
+		}
+		th, td {
+			font-weight: bold;
+			text-align: left;
+			padding: 8px;
+		}
+		tr:nth-child(even) {
+			background-color: none;
+		}
+footer{
+	background-color: #1c2d3e!important;
+}
+.grid-container {
+	grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  	display: grid;
+  	padding: 10px;
+}
+.grid-item {
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+}
+.cityTemp{
+	font-size: 50px;
+	font-weight: bold;
+}
+
+.jumbotron-fluid{
+	background-image:linear-gradient(to bottom, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../assets/monutain.jpg');
+	background-size: cover;
+	height: 1200px;
+	color: white;
+	font-family: 'Roboto', sans-serif;
+}
+#dis4{
+	margin-left: 80px;
+	padding-top: 40px;
+}
+#currTemp{
+	font-size: 80px;
+}
+#currTempo{
+	font-size: 40px;
+}
+
+
+#subRight{
+	text-align: right;
+	padding-right: 40px; 
+	margin-top: -80px;
+}
+#subTemp{
+	line-height: 30px;
+	text-align: center;
+	margin-left: 40px;
+}
+
+#sub{
+	margin-left: 80px;
+}
+#search {
+  font-family: 'Arial', sans-serif;
+  border: 2px solid black;
+  border-radius : 10px;
+  height:55px;
+  width:400px!important;
+  font-size:30px;
+  padding-left: 20px;
+}
+#logo {
+  margin-left:80px;
+  margin-top:100px;
+  position:relative;
+}
+#meteo {
+  font-size:25px;
+  color:white;
+}
