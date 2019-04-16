@@ -7,7 +7,7 @@
 - Temps nécessaire : 3 jours ouvrables
 - Où : BeCode 
 - Quand: 2-4 Avril 2019
-- lien: 
+- lien:https://meilyn.github.io/mes-tes-haut/dist/ 
 
 ## Projet
 
@@ -19,8 +19,8 @@ Application Météo créé avec VueJS composé d'un input de recherche pour la v
 - VueJS
 ## Distribution de tâches
 
-OTHMAN : API
-Meilyn : Design App,Logo, Maquette,  
+OTHMAN : API, Javascript, Build
+Meilyn : Design App,Logo, Maquette, Build  
 
 ## Build Setup
 
