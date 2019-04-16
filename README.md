@@ -9,7 +9,7 @@
 - Quand: 2-4 Avril 2019
 - lien: 
 
-##Projet
+## Projet
 
 Application Météo créé avec VueJS composé d'un input de recherche pour la ville.
 
@@ -17,6 +17,10 @@ Application Météo créé avec VueJS composé d'un input de recherche pour la v
 
 - HTML5&CSS3 (GRID)
 - VueJS
+## Distribution de tâches
+
+OTHMAN : API
+Meilyn : Design App,Logo, Maquette,  
 
 ## Build Setup
 
